@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Terraform initial code based on the _avaloqcloud/template-terraform-repository_
+- _.gitignore_ to include Visual Studio Code and JetBrains IntelliJ IDEA files
 
 ### Fixed
 
