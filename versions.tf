@@ -1,7 +1,11 @@
 terraform {
-  required_version = "~> 1.2"
+  required_version = "~> 1.2.8"
 
   required_providers {
+    oci = {
+      source  = "oracle/oci"
+      version = "~> 5.18.0"
+    }
     provider_1 = {
       source  = "module_1"
       version = "~> 1.0"

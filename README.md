@@ -20,7 +20,8 @@ Write here steps that are expected to have been already performed or components 
 
 List here requirements to successfully use the module:
 
-* [Terraform](https://developer.hashicorp.com/terraform/downloads) ~> 1.2
+* [Terraform](https://developer.hashicorp.com/terraform/downloads) ~> 1.2.8
+* [OCI Terraform Provider](https://registry.terraform.io/providers/oracle/oci/5.18.0/docs) ~> 5.18.0
 * [Module 1 provider 1](https://developer.hashicorp.com/provider_1/module_1) ~> 1.0
 * [Module 2 provider 2](https://developer.hashicorp.com/provider_2/module_2) ~> 2.5
 
