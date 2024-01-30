@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Initial `.github/CODEOWNERS` file
 - Use Terraform minimum version `v1.2.8`
 - Use Oracle Cloud Infrastructure Provider minimum version `v5.18`
 - Terraform initial code based on the _avaloqcloud/template-terraform-repository_

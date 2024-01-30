@@ -1,0 +1,18 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+# Order is important; the last matching pattern takes the most
+# precedence.
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @global-owner1 and @global-owner2 will be requested for
+# review when someone opens a pull request.
+
+# IMPORTANT: Replace with repository owners and uncomment!
+#*       @global-owner1 @global-owner2
+
+# Terraform files
+*.tf     @avaloqcloud/terraform-code-reviewers
+
+# Cloud topology automation-related files
+schema.yaml  @avaloqcloud/cloud-topology-automation
