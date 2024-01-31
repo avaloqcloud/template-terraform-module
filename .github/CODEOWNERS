@@ -15,4 +15,4 @@
 *.tf     @avaloqcloud/terraform-code-reviewers
 
 # Cloud topology automation-related files
-schema.yaml  @avaloqcloud/cloud-topology-automation
+schema.yaml  @avaloqcloud/cloud-topology
